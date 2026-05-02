@@ -1,4 +1,4 @@
-# Lab-Ex.-No---5-Design-simulate-an-environment-for-Robot-Painting-using-Robo-DK
+# Lab-Ex.-No---3-Design-simulate-an-environment-for-Robot-Painting-using-Robo-DK
  
 ## AIM:
 To design a and simulate the painting environment for a serial manipluator and teach the surface for the same 
@@ -195,15 +195,13 @@ Home target
 ![image](https://user-images.githubusercontent.com/36288975/173729436-d4d9e8b7-7504-4b24-beda-dd213813557d.png)
 
 
+## Simulation:
+ ![image](https://github.com/user-attachments/assets/b4127737-178f-402c-b70c-b52d77e2a1ef)
 
-##Program:
-/*
- 
-Developed by: 
-RegisterNumber:  
-*/
- 
 
  
-## Results of simulation :
+## Results:
+The painting environment for a serial manipluator has been created and the surface for the same has been thaught.
+
+
  
